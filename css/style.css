@@ -115,6 +115,28 @@ img{
 }
 
 /* Reusuable CSS */
+.icons{
+  color: white;
+  padding: 15px;
+  width: 100%;
+  text-align: center;
+}
+
+.icons, a{
+  text-decoration: none;
+  color: white;
+}
+
+.icon{
+  padding-left: 30px;
+  font-size: 30px;
+}
+
+.icon:hover{
+  color:#C87E4F;
+}
+
+
 .section{
   padding: 7rem 2rem;
 }
